@@ -1,0 +1,4 @@
+#!/bin/sh
+str="ls -l"
+echo"$str"
+exit 0
