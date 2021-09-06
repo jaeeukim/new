@@ -1,0 +1,4 @@
+#!/bin/s
+
+ls -ltr -m -p
+exit 0
